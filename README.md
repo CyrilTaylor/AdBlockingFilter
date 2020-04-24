@@ -1,2 +1,2 @@
-# HyBlockingFilter
-Ad Blocking Filter with Ad
+# AdBlockingFilter
+Ad Blocking Filter with ABP
